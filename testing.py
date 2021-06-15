@@ -1,0 +1,2 @@
+dic = (x,)
+print(dic)
